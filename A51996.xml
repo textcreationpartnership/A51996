@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some brief remarks on a paper printed and annexed to the narrative of the proceedings of the elders and messengers of the baptized churches of Christ, asserting the doctrine of personal election and final perseverance, who met in London, on May the 17. 1692. to consider of several cases, in order to preserve and encrease their mutual love, peace, concord, and welfare among themselves.</title>
+            <author>Marlow, Isaac.</author>
+         </titleStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51996</idno><idno type="EEBO-CITATION">99832846</idno>
+  <idno type="VID">37321</idno>
+  <idno type="EEBO-PROQUEST">2240941352</idno>
+  
+            <idno type="STC">Wing M694A</idno>
+            <idno type="STC">ESTC R221548</idno>
+            <idno type="PROQUEST">99832846</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832846e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37321)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1782:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some brief remarks on a paper printed and annexed to the narrative of the proceedings of the elders and messengers of the baptized churches of Christ, asserting the doctrine of personal election and final perseverance, who met in London, on May the 17. 1692. to consider of several cases, in order to preserve and encrease their mutual love, peace, concord, and welfare among themselves.</title>
+                  <author>Marlow, Isaac.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Election (Theology) --  Early works to 1800.</term>
+               <term type="topical_term">Clergy --  Appointment, call, and election --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:37321:1"/>
+            <pb facs="tcp:37321:1"/>
+            <head>SOME Brief Remarks</head>
+            <head type="sub">On a Paper printed and annexed to the Narrative of the proceedings of the Elders and Messengers of the Baptized Churches of Christ, asserting the Doctrine of Personal Election and Final Perseve<g ref="char:EOLhyphen"/>rance, who met in <hi>London,</hi> on <hi>May</hi> the <hi>17. 1692.</hi> to consider of several Cases, in order to preserve and encrease their mutual Love, Peace, Concord, and Welfare among themselves.</head>
+            <p>AFter some persons had preached up, printed and made several Challenges to Dispute with their Brethren for the practice of the common way of Singing, and began to bring it in use in publick Worship; I thought it my Duty to present to others, what I believed to be the Mind of God in that matter, in a Brief Discourse and Book Intituled, <hi>Prelimited Forms of praising God vocally sung by all the Church together, proved to be no Gospel Ordinance.</hi> And upon my complaint in a Sheet I since published of the wrong Mr. <hi>Keach</hi> had done me, by falsly representing the aforesaid Book, in his pretended Answer to it, (wherein he so strangely counterfeited and metamorphosed what I had delivered on that Subject, that none could discern from his Treatise what I asserted in many things concerning Singing) he made an
+<pb n="2" facs="tcp:37321:2"/>Appeal in Print, for the Case to be ended by some Brethren chosen by each of us; which notwith<g ref="char:EOLhyphen"/>standing I accepted thereof, yet he was Instru<g ref="char:EOLhyphen"/>mental soon after to publish a Book called, <hi>Truth vindicated,</hi> (if not a Contriver of it) in Answer to his Appeal, smoothing over, and vindicating his gross abusing of me, to which the Authors of it were ashamed to put their Names. Upon which, after my fresh complaint by Letter to him, and his refusing to accept of, or propose some methods to secure a fair Inspection, and to make publick satisfaction according as his Friends and mine should determine the Case, several worthy Elders inspected both our Books, and have in vin<g ref="char:EOLhyphen"/>dication of my complaint presented their charge a<g ref="char:EOLhyphen"/>gainst him under their Hands, as largely appears in my printed Narrative of the Rise, Occasion and Management of the Controversie of Singing; which together with my Reply (to Mr. <hi>Keach</hi>'s Book and others) that I lately published, has met with such unchristian Entertainment as herein follow<g ref="char:EOLhyphen"/>eth.</p>
+            <p>Upon my reading the aforesaid Paper joined to that Narrative, and meeting with some things at the end of it, reflecting on a Book or two I lately published in Reply to Mr. <hi>Benjamin Keach</hi>'s Trea<g ref="char:EOLhyphen"/>tise, Intituled, <hi>The Breach repaired in Gods Wor<g ref="char:EOLhyphen"/>ship, or Psalms, Hymns, and Spiritual Songs proved to be an holy Ordinance of Jesus Christ,</hi> and to di<g ref="char:EOLhyphen"/>vers others who have wrote against me on that Subject; which considering that my Books were not the concern of that Paper, and concluding them and my self greatly wronged therein, I thought just and equitable to clear them, and highly <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>essary
+<pb n="3" facs="tcp:37321:2"/>for the future preventing of any such un<g ref="char:EOLhyphen"/>fair, or corrupt determinations to be spread a<g ref="char:EOLhyphen"/>broad and read with those Narratives to the Mem<g ref="char:EOLhyphen"/>bers of all our Churches, to acquaint them with it in this publick way. And in order thereunto, I shall first recite the latter part of that Paper.</p>
+            <p>Say they, <q>We have also considered and de<g ref="char:EOLhyphen"/>termined, (that for the prevention of any far<g ref="char:EOLhyphen"/>ther reproach and dishonour that may come up<g ref="char:EOLhyphen"/>on the Name of the Lord, and your holy Pro<g ref="char:EOLhyphen"/>fession, that nothing will prove more effectual for this end, than) That all Persons that are concerned on both sides in this Controversie, be desired, and we do desire and determine, that they should call in, and bring all their Books hereafter mentioned into this Assembly, or to whom they shall appoint, and leave them to their dispose. And that if any do persist in this reproachful method, we do seriously deliver it as our Sence, [That that Person or Persons, do those things that sow Offences, Discord and Division among the Churches of Christ, and should be so remarked.] We could intreat you upon our Knees, might we prevail with you in this matter, that you would join toge<g ref="char:EOLhyphen"/>ther to keep the unity of the Spirit, and of our holy Profession, in the Bond of Peace.</q>
+            </p>
+            <q>
+               <p>Moreover, we intreat and determine, that it be inserted in the Narrative, that none of the Members of the Churches do buy, give, or dis<g ref="char:EOLhyphen"/>perse any of these Books aforesaid under-writ, nor any other that have those uncharitable Re<g ref="char:EOLhyphen"/>flections in them against their Brethren; and
+<pb n="4" facs="tcp:37321:3"/>that no Person do sell them, or give them to others.</p>
+               <p>The Names of the Books some of which we have seen, and all others that have such Reflecti<g ref="char:EOLhyphen"/>ons, thô not seen, are,</p>
+            </q>
+            <p n="1">1. A Sober Reply to Mr. <hi>Robert Steed</hi>'s Epi<g ref="char:EOLhyphen"/>stle.</p>
+            <p n="2">2. Truth Soberly Defended.</p>
+            <p n="3">3. A Serious Answer, <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4. Truth cleared, or a brief Narrative of the Rise, <hi>&amp;c.</hi>
+            </p>
+            <p>That which I shall first observe from the fore<g ref="char:EOLhyphen"/>going Citation is, That thô there are some gene<g ref="char:EOLhyphen"/>ral Expressions in that determination that include all Persons concerned in the Controversie, yet it is plain, and the Reader may judge of it from the words before recited, that the Books they deter<g ref="char:EOLhyphen"/>mine should be called in are expresly limited to those (four) Books before mentioned, and that the words in the following Paragraph, <hi>viz. The none of the Members of the Churches do buy, give or disperse any of those Books aforosaid under-writ, nor any other that have those uncharitable Reflect<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ons in them,</hi> do also limit their determination the Four Books expresly named: Indeed if w<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take the words to have relation only to the imm<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>diate preceding Paragragh herein recited, then the take in other Books besides those Four, but t<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> words cannot be fairly so taken. 1. Because <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of those Books, neither of which are mine (<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ving been examined, as appears in the fore<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="5" facs="tcp:37321:3"/>part of that Paper, wherein they are charged with particular matter of Fact and Reflectious) are therein before expresly named, and so those two Books only are to be understood in those words [a<g ref="char:EOLhyphen"/>foresaid under-writ] and then my Books are in<g ref="char:EOLhyphen"/>cluded in the following words, <hi>viz. Nor any o<g ref="char:EOLhyphen"/>ther that have those uncharitable Reflections in them;</hi> and these following words, <hi>viz. The names of the Books, some of which we have seen,</hi> (which implicitely confesseth that some of the Four Books they had not seen) <hi>and all others that have such Reflections, tho not seen,</hi> are, 1. A Sober Reply, <hi>&amp;c.</hi> do confirm the sence I have given, which is all one as to say, The names of the two Books we have seen, which are before expresly named and exa<g ref="char:EOLhyphen"/>mined in this Paper, and the Names of all others not seen that are included in our determination are, 1. A Sober Reply, <hi>&amp;c.</hi> 2. Truth Soberly de<g ref="char:EOLhyphen"/>fended. 3. A Serious Answer. 4. Truth clear<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi> And so the second and fourth of these Books which are mine they own they had not seen. But if any should Cavil at this Exposition of those words before recited, as my Antagonists are apt e<g ref="char:EOLhyphen"/>nough to do with that which does not please them, and will have the determination, tho' contrary to the genuine Sence of the words to include other Books besides those Four within named, yet as such general Expressions can discover those other Books not therein named to no others than such who have been well acquainted with them, and with the Reflections of those Books named and referred to in that Paper, so the mark put upon them <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing so private as to be left to the judgment of <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e dispersers and receivers of them, whether
+<pb n="6" facs="tcp:37321:4"/>they have such Reflections or no as are referred to in that Paper, is really no publick mark at all set upon them, and consequently no other Books are openly forbidden to be dispersed but those Four expresly named.</p>
+            <p>Now when I first read the aforesaid determina<g ref="char:EOLhyphen"/>tion in the Copy, the Printer had (which was brought to my hands from Mr. <hi>Keach</hi> by one of our Elders to transcribe) before it was published I wrote the following Lines at the bottom of the same written Paper, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Whereas at the end of this Paper there is mention made of several Books, and that none of the Mem<g ref="char:EOLhyphen"/>bers of Churches should buy, sell, give or disperse them, some of which they confess they have not seen, and for as much as two of them have been examined and inspected into as is witnessed in this Paper under the hands of seven Brethren, then the other two Books that appears herein not to be seen or inspected by them are named and intituled; the first,</hi> Truth Soberly Defended. <hi>The second,</hi> Truth cleared, or a brief Narrative of the Rise, &amp;c. <hi>Therefore know<g ref="char:EOLhyphen"/>ing that these two Books were never examined by those seven Brethren, nor any others, so as to have any particular charge of Reflections, or matter of Fact presented against them as the others had, and that the Paper of Advice not to publish or disperse them abroad was openly cancelled and torn in pieces in the Assembly. I do by the Advice of several Friends hereby testifie and declare, that so to publish the names of both my Books among the others, will <gap reason="illegible: in gutter" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <pb n="7" facs="tcp:37321:4"/>a great abuse and wrong to me, and a corrupt impo<g ref="char:EOLhyphen"/>sition on the Churches.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Witness my Hand<lb/>
+                        <date>
+                           <hi>June</hi> 4. 1692.</date>
+                     </dateline>
+                     <lb/>
+                     <signed>Isaac Marlow.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>These recited Lines I delivered with that Paper to Mr. <hi>Keach,</hi> who had the publishing of it, with the Narrative, suspecting that the Names of my two Books were by some means or other unsairly put in among the rest that were therein named; for tho' our Countrey Brethren (I suppose through some wrong Information or Insinuation of Mr. <hi>Keach,</hi> or some of his Friends) had rashly pre<g ref="char:EOLhyphen"/>sented us who had wrote against the common way of Singing, with a Paper of Advice and Conclusi<g ref="char:EOLhyphen"/>on to all that were concerned in this Controver<g ref="char:EOLhyphen"/>sie, that none of our Books should be dispersed that were then printing, or already printed, but not published, but that they should with our writ<g ref="char:EOLhyphen"/>ten Papers be brought in and left to their dispose, and Mr. <hi>S. B.</hi> Mr. <hi>Keach</hi>'s great Friend, and one of the seven Brethren, had said my Books should be Burned; yet they being afterwards sensible of their too hasty proceeding against them, asked me, If I would leave the determination of the mat<g ref="char:EOLhyphen"/>ter to them? to which I answered, <hi>That they had already determined the Case before they had exa<g ref="char:EOLhyphen"/>mined or inspected into the Truth of the matter; that right or wrong, true or false, good or bad, my Books should not be published among the Churches.</hi> And when I had before put this question to another of the Seven Brethren, <hi>viz.</hi> That in Case there were published an apparent Lie against the Holy Ghost,
+<pb n="8" facs="tcp:37321:5"/>whether it might not be called so in Print? He answered, That if it were it should not be so called, which instance I gave to the rest of the Seven Bre<g ref="char:EOLhyphen"/>thren, and told them, That I knew not but if I should tye my self to their determination, they would condemn my Books for expressing of matter of Fact in its most proper terms; upon which they cancelled the Paper of their Advice and Con<g ref="char:EOLhyphen"/>clusion to us, and it was openly tore in pieces in the Assembly, and then they told me, That now they should proceed on a new bottom, and asked me again, If I would leave the Case to their deter<g ref="char:EOLhyphen"/>mination, and they (<hi>viz.</hi> the Seven Country Bre<g ref="char:EOLhyphen"/>thren) would examine into the matter of Fact and Reflections? To which I answered, That tho' the Paper was torn, yet the Persons were the same who had judged my Books before; but I se<g ref="char:EOLhyphen"/>veral times earnestly requested them to examine my Books, and told them, I would seriously con<g ref="char:EOLhyphen"/>sider of any thing they should lay before me, and did divers times faithfully promise, that if any thing appeared amiss in them, either as to matter of Fact, or undue Reflections, I would make as full satisfaction for it as the nature of the thing should require; but tho' Mr. <hi>Keach</hi> had my Books, and some others had my Narrative, whereby they might have quickly drawn up a Charge against me, if there had been matter for it, seeing the matter of Fact charged on him and others there<g ref="char:EOLhyphen"/>in, <hi>&amp;c.</hi> was ready collected to their Hands, yet there was no particular Charge exhibited against me, or my Books, by Mr. <hi>Keach,</hi> or any others, or by the Assembly, and therefore there is no rea<g ref="char:EOLhyphen"/>son to conclude (tho' it was moved by Mr. <hi>Keach</hi>'s
+<pb n="9" facs="tcp:37321:5"/>great Friend, and I think by himself too) that the substance of the Paper that was torn should be inserted in that Paper to be annexed to the Narra<g ref="char:EOLhyphen"/>tive. For to imagine that the Seven Countrey Brethren without having examined my Books should any ways afterwards jointly consent to it, would be to imagine them guilty of such a great and palpable piece of partiality as would blemish their Reputations with great Injustice, or to be<g ref="char:EOLhyphen"/>tray the great weakness of some of them in being out-witted by such among them, as we know to be very zealous for Mr. <hi>Keach</hi>'s Cause: or to con<g ref="char:EOLhyphen"/>ceive they did privately examine my Books, and jointly order their Names or Titles to be put in that determination without exhibiting any particu<g ref="char:EOLhyphen"/>lar Charge against them in that printed Paper, or any ways acquainting me with my Offences (if they had found any) would have been to condemn my Books without giving their Reasons for it to convince me wherein I had exceeded in any mat<g ref="char:EOLhyphen"/>ter, and a denial of the satisfaction I offered in such a Case, and so would have looked as if they were resolved to accept of nothing, tho' never so just and equitable for the publishing of my Books. But to imagine those Seven Brethren had made such a private Inspection, is contrary to the plain words in the printed determination, wherein they own they had not seen them, and therefore I gave my aforesaid Testimony to Mr. <hi>Keach</hi> in those few Lines at the bottom of that written Paper, as I thought the most likely way to have prevented such further trouble (and undesireable work as this is, if the Truth had not suffered under this unjust determination) as to clear my Books and
+<pb n="10" facs="tcp:37321:6"/>my self, by laying open to the Churches the irregn<g ref="char:EOLhyphen"/>lar Actions of some Persons which apparently ap<g ref="char:EOLhyphen"/>pears in the aforesaid printed Paper from the fol<g ref="char:EOLhyphen"/>lowing Considerations.</p>
+            <p n="1">1. Because there is not the least mention made of my Name in any part of that Paper, as there is of others, whose Books the Seven Countrey Bre<g ref="char:EOLhyphen"/>thren have examined and inspected into; neither is there any particular Charge therein exhibited a<g ref="char:EOLhyphen"/>gainst me, or my Books, as there is against those others therein named (nor ever was by the As<g ref="char:EOLhyphen"/>sembly) for any thing I have wrote either of mat<g ref="char:EOLhyphen"/>ter of Fact or Reflections; and therefore it is a strange, unchristian, partial and unjust action of such who put the Names of them in that Paper with the other two Books, when they are not at all concerned with them, or were ever so examined or inspected into by those Seven Brethren, as is manifest therein, in that it is owned they had not seen them, that is, as I understand them to mean so, as to have examined into the Truth of what they are; for some of them had my Narrative, tho' some of them after they had censured my Books, told me they had not read it.</p>
+            <p n="2">2. It therefore clearly follows, that the putting the Names of my two Books among the rest, whereby they are in general censured and deter<g ref="char:EOLhyphen"/>mined, that none of the Members of Churches should buy, sell, give or disperse them, is an Im<g ref="char:EOLhyphen"/>moral wrong to me, in hindring the Sale of my bound Book of Reply to Mr. <hi>Keach</hi> and others, for that some Persons have from thence the slighter thoughts of it, as neither worth their buy<g ref="char:EOLhyphen"/>ing nor reading.</p>
+            <p n="3">
+               <pb n="11" facs="tcp:37321:6"/> 3. This action whoever is guilty of it, appears of a black aspect; for what reason is there that Mr. <hi>Keach</hi>'s Book called the Breach repaired, <hi>&amp;c.</hi> and Mr. <hi>Joseph Wright</hi>'s Book called Folly De<g ref="char:EOLhyphen"/>tected, <hi>&amp;c.</hi> And the Book called Truth Vindi<g ref="char:EOLhyphen"/>cated, or Mr. <hi>Keach</hi>'s Sober Appeal Answered, <hi>&amp;c.</hi> that have been spread abroad among the Churches for some time, corrupting and deceiving the Minds of Christians, that these should not without being censured for it, have liberty to be answered in just vindication of my self from their abuses, and of the setled Principles of the Baptized Churches against those Invaders of our Profession: and it is the more gross and partial, because those Books are not marked as abusive pieces, nor forbidden that any more of them should be sold or dispersed, nor in the least named in that Paper, tho' there are in them (as is shewed in my Narrative, <hi>&amp;c.</hi>) the most grossest Lies, Falshoods and Abuses as can, I think, be uttered, and such foul Reflections as these unjustly thrown upon me, <hi>viz.</hi>
+               <note n="a" place="margin">
+                  <hi>See Mr.</hi> Keach<hi>'s</hi> Breach Repaired, <hi>p.</hi> 13.</note> As a Person not fit to meddle with Divine Things: As one that plays the part of a
+<note n="b" place="margin">
+                  <hi>His Answer to</hi> Ap<g ref="char:EOLhyphen"/>pendix, <hi>pag.</hi> 25.</note> Sophister; as
+<note n="c" place="margin">Breach Repair<g ref="char:EOLhyphen"/>ed, <hi>pag.</hi> 14.</note> justifying the Quakers silent Meetings; tendring my self but little bet<g ref="char:EOLhyphen"/>ter than a meer
+<note n="d" place="margin">
+                  <hi>Page</hi> 124.</note> Enthusiast; as a mischievous Person, who to
+<note n="e" place="margin">
+                  <hi>The Piece called,</hi> Truth Vindicated, <hi>p.</hi> 14. <hi>and Mr.</hi> Joseph VVright<hi>'s</hi> Fosly De<g ref="char:EOLhyphen"/>tected, <hi>pag.</hi> 17.</note> Fire his Neighbour's House, burns down his own: As a
+<note n="f" place="margin">
+                  <hi>Mr.</hi> Wright<hi>'s Postscript.</hi>
+               </note> Ridiculous Scrib<g ref="char:EOLhyphen"/>ler;
+<note n="g" place="margin">
+                  <hi>Piece called,</hi> Truth Vindicated, <hi>pag.</hi> 23.</note> Brasen — Forehead,
+<pb n="12" facs="tcp:37321:7"/>
+               <note n="h" place="margin">Jos. Wright<hi>'s</hi> Folly Detected, <hi>p.</hi> 35.</note> Non-Churcher,
+<note n="i" place="margin">Jos. Wright<hi>'s</hi> Folly Detected, <hi>p.</hi> 35.</note> Ranter,
+<note n="k" place="margin">Jos. Wright<hi>'s</hi> Folly Detected, <hi>p.</hi> 35.</note> Quaker,
+<note n="l" place="margin">
+                  <hi>Mr.</hi> Benj Keach<hi>'s</hi> Breach Repaired, <hi>p.</hi> 122</note> Nonsensical,
+<note n="m" place="margin">Folly detect<g ref="char:EOLhyphen"/>ed, <hi>p.</hi> 17, 71, 3.</note> Novice,
+<note n="n" place="margin">Folly detect<g ref="char:EOLhyphen"/>ed, <hi>p.</hi> 17, 71, 3.</note> Ignoramus, and
+<note n="o" place="margin">Folly detect<g ref="char:EOLhyphen"/>ed, <hi>p.</hi> 17, 71, 3.</note> Conceit<g ref="char:EOLhyphen"/>edly Zealous. Now of those Books wherein these soul Re<g ref="char:EOLhyphen"/>ssections are, with many gross Abuses, and Immoral Falshoods, there is not one word mentioned of their Names or Titles in all that Paper, tho' the subject matter of my aforesaid Treatises are in answer to them, and a sober Reproof of those publick Evils. But such Reflections as are in that Paper referred to, are cunningly cast on my Books, which is indeed as great a piece of partiality as can be acted by any Persons: And there is nothing of Justice, Hone<g ref="char:EOLhyphen"/>sty, nor Equity in such a determination, but it looks of an Arbitrary Nature, for at the end of the same printed Paper, Mr. <hi>Richard Adams</hi> is ap<g ref="char:EOLhyphen"/>pointed to receive those Books that are determi<g ref="char:EOLhyphen"/>ned to be brought in and left to his dispose: but notwithstanding that 1400 of my Narratives were dispersed, yet he since told me, that not one of them was brought to him, which shews that our People are not so forward to yield such blind Obe<g ref="char:EOLhyphen"/>dience as some require; and if their Cause be so bad as to stand in need of such Humane Policy, and Power too if they had it, as to appoint a pub<g ref="char:EOLhyphen"/>lick Officer to dispose of or burn those Books (that witness against their publick Errors and Im<g ref="char:EOLhyphen"/>moralities) which they cannot answer with their Pens, I hope they will not be able this way to pro<g ref="char:EOLhyphen"/>selyte any sober Christians to it.</p>
+            <p>But here I shall Answer an Objection; some may say, That the first Paper of Advice and Con<g ref="char:EOLhyphen"/>clusion
+<pb n="13" facs="tcp:37321:7"/>herein spoken of, was not cancelled or tore in pieces on the account of your Books, or any thing that concerns them, but for something else contained in it. To this I answer, It's true there was a Clause in it, unfairly fathered on the last As<g ref="char:EOLhyphen"/>sembly before, which would therefore have tend<g ref="char:EOLhyphen"/>ed to much trouble and mischief in a particular Case that was between Mr. <hi>Keach,</hi> his Church, and one of their dissatisfied Members, relating to his and others Communion with them in their pra<g ref="char:EOLhyphen"/>ctice of Singing, had not some Persons opened the matter to our Brethren, and shewed that there was not sufficient ground for such a Clause, and thereby were the occasion that nothing of the same Nature is put in or to the Narrative, but yet that Paper was not cancelled only on that account.</p>
+            <p n="1">1. Because there was no need of tearing that Paper, when the striking out with a Pen, but as much as one Line would have taken away that Clauses relation to that Assembly.</p>
+            <p n="2">2. Because at the same time, when I refused to bind my self to their determination, because they had already rashly sentenced my Books in that Paper: They tore it, and presently told me, that now they should proceed on a new bottom to exa<g ref="char:EOLhyphen"/>mine my Books, and give their determination, if I would leave the matter to them: which is an evi<g ref="char:EOLhyphen"/>dent demonstration that that Paper was chiefly tom, because they could not stand by that rash and hasty determination contained in it. And however it was that the Names of my two Books were afterwards inserted in that Printed Paper, yet seeing they are marked for having such Reflecti<g ref="char:EOLhyphen"/>ons as deserve the aforesaid determination, that
+<pb n="14" facs="tcp:37321:8"/>they should not be published to the Churches, and because the greatest Reflection in them is made on Mr. <hi>John Christopher,</hi> by those worthy and honour<g ref="char:EOLhyphen"/>ble Elders that inspected Mr. <hi>Keach</hi>'s Book and mine, and that I think it's my Duty in the way of Truth and Righteousness to vindicate them where there is need of it, especially so far as it concerns what they have done in my Narrative, I shall therefore present the Reader with some Rea<g ref="char:EOLhyphen"/>sons for their charging him with a Lie against the Holy Ghost, for confidently asserting in the Book called, <hi>Truth Vindicated, or</hi> Mr. Keach<hi>'s Sober Appeal answered,</hi> that the Greek word <hi>Hymneo</hi> is used in but two of those four places, wherein I said it was, <hi>viz. Matth.</hi> 26.30. <hi>Mark</hi> 14.26. <hi>Acts</hi> 16.25. <hi>Heb.</hi> 2.12. in all the Greek Copies (he or) they have met with, and that in the other two it is <hi>Hudo.</hi>
+            </p>
+            <p n="1">1. It is most plain that the word <hi>Hudo</hi> is no where used, nor any thing like it in all those four Texts aforesaid, as is Testified by those worthy Elders.</p>
+            <p n="2">2. The word <hi>Hudo</hi> is not Englished in that page where it is most wanted to give Intelligence to the unlearned Reader for the English [to Sing] Line twenty is not there applyed to it, but by my words there repeated, Line 17.7. is refrrred to <hi>Hymnos</hi> Line 1. which did occasion my note on it, nor hath he told his Reader, as he afterwards ac<g ref="char:EOLhyphen"/>quainted my two Friends, which is witneffed by them in my Narrative, that the two Texts in which he saith the word <hi>Hymneo</hi> is not used, but <hi>Hudo</hi> is, <hi>Matth.</hi> 26.30. <hi>Mark</hi> 14.26. which gives a suspicious Aspect, that he designed to blind the
+<pb n="15" facs="tcp:37321:8"/>inlearned, more than to inform their understand<g ref="char:EOLhyphen"/>ings.</p>
+            <p n="3">3. <hi>Hudo</hi> to Sing, page 19. is not placed next to those four Texts, he Citeth out of Mr. <hi>Jesses Lexicon,</hi> but the word <hi>Hymnos</hi> the Noun to <hi>Hym<g ref="char:EOLhyphen"/>neo</hi> is applyed as used in them, one of which is, <hi>Matth.</hi> 26.30. wherein he denies (in the same page) that word to be, which being there put in Greek Characters, and the word <hi>Hymneo</hi> Cited out of my Treatise in English Letters, the unlearn<g ref="char:EOLhyphen"/>ed Reader cannot discern that his own Authors witness against him, and that it is the word <hi>Hym<g ref="char:EOLhyphen"/>nesantes</hi> and <hi>Hymneo</hi> in <hi>Beza</hi>'s Translation, and <hi>Screvellius</hi> and <hi>Hill</hi>'s <hi>Lexicon,</hi> which he there also Citeth out of Mr. <hi>Knollis</hi> Paper, page 8, 9. and applyeth to the same word as Mr. <hi>Knollis</hi> does, <hi>viz.</hi> they Hymned, <hi>i. e.</hi> Christ and his Disciples, <hi>Matth.</hi> 26.30.</p>
+            <p n="4">4. He hath also acted against the Evidence of Mr. <hi>Keach</hi>'s learned Hand (which he endeavours to vindicate against me, respecting the signification of the word <hi>Hymneo;</hi>) for in his Reflections at the end of Mr. <hi>Keach</hi>'s <hi>Breach Repaired,</hi> page 53. out of Mr. <hi>L.</hi> that Learned Hand tells us, that the word <hi>Hymneo</hi> is used, <hi>Matth.</hi> 26.30. Mark 14.26. <hi>Acts</hi> 16.25. <hi>Heb.</hi> 2.12. which are the very same Texts wherein I said it was; and he farther confirms the same by Citing <hi>Beza</hi> on those places, so that Mr. <hi>John Christopher</hi> has acted against the Light and Evidence of all these Learned Authors he Citeth against me, and therefore it appears to be against his own Conscience with deliberation, according to those Elders Charge.</p>
+            <p n="5">5. He hath put, <hi>Eph.</hi> 5.19. with the other
+<pb n="16" facs="tcp:37321:9"/>three Scriptures I named, instead of <hi>Mark</hi> 14.26. which made my fourth Text, wherein I said the word <hi>Hymneo</hi> is used, which appears from his own words to be done wittingly: for he saith, Mr. <hi>M.</hi> says, <hi>That the word Sung nor Sing are in none of these four places in the Greek Tongue— And that</hi> Mr. <hi>M. is under a very great mistake, in his bold Affirmation that the word</hi> Hymneo <hi>is used in those four Scriptures he names;</hi> from whence I observe from the words [these] and [those] that Mr. C. did wittingly distinguish the four Texts he there recited from the four I named, as if they were differently Cited by me on those matters, which according to the Elders Charge is a deceitful False hood, for as much as he could not find the least hint of <hi>Eph.</hi> 5.19. which he placed for my last Text.</p>
+            <p n="6">6. Mr. <hi>C.</hi> hath also uttered another Falshood, page 18. in saying, <hi>Those Greek words</hi> Hymneo, Hudo, <hi>Mr.</hi> M. <hi>affirms signifies simple praise,</hi> where as I never Cited, Named, nor in the least Men<g ref="char:EOLhyphen"/>tioned the word <hi>Hudo</hi> in any thing I had then wrote or printed.</p>
+            <p>Now seeing I have abundantly shewed froms Cloud of Witnesses, and Instances in my former and last Treatises, that the word <hi>Hymneo</hi> signifies simply to praise or give thanks; and Mr. <hi>H<gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Knollis</hi> has told us twice in his Printed Paper, he doth not confine it to Songs of Praise, and none of my Antagonists having been able to suppress the evidence of those many Authors, and ancient Eng<g ref="char:EOLhyphen"/>lish Bibles, <hi>&amp;c.</hi> which I have Cited to prove the signification of that word, I can render no other Reason why Mr. <hi>Christopher</hi> should so boldly deny
+<pb n="17" facs="tcp:37321:9"/>it to be used in <hi>Matth.</hi> 26.30. <hi>Mark</hi> 14.26. than at once with a heap of deceit and falshood to dar<g ref="char:EOLhyphen"/>ken and confound my Evidence, which he nor others could not answer, not regarding how it al<g ref="char:EOLhyphen"/>so tends to confound the signification that his and his Parties Authors gives of the same word on the same Texts, if it be not used therein: And it be<g ref="char:EOLhyphen"/>ing in a thing of so high a nature as wittingly so to deny the word which the Holy Ghost has there used, and to alter the Word of God in his printed Book, I leave it to the judgment of all Impartial Christians if it be not an apparent Lie against the Holy Ghost, according to the Elders Charge; if not accompanied with worser Circumstances than appears in that which <hi>Ananias</hi> and <hi>Saphira</hi> com<g ref="char:EOLhyphen"/>mitted <hi>Acts</hi> 5. for which they lost their Lives by the immediate Hand of God.</p>
+            <p>Moreover I shall further note, that this very Persons Name is put with Mr. <hi>Keach</hi>'s and others to the Epistle Recommendatory of the Book called, <hi>A Sober Reply to Mr.</hi> Robert Steed<hi>'s Epistle,</hi> for giving the greater Credit and Reputation to it, and as one of the Authors of it, wherein is published that notorious Slander against the first Baptized Churches, which their printed Confession of Faith does clear them of.</p>
+            <p>Now for as much as the aforesaid Book called <hi>Truth Vindicated,</hi> is in general witnessed against in my Narrative, under the hands of several wor<g ref="char:EOLhyphen"/>thy Elders, as an unchristian reflective Piece, and that they have set so great a mark upon it, as to charge the Authors of it with a Life against the Ho<g ref="char:EOLhyphen"/>ly
+<pb n="18" facs="tcp:37321:10"/>Ghost, and for as much as it is also witnessed against at the end of my Narrative, under <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hands of Nine other Faithful Brethren in the name<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of many others, as an <hi>unchristian scandalous Pa<g ref="char:EOLhyphen"/>per, wherein are many base Reflections and gr<gap reason="illegible: in gutter" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Falshoods, designed to justifie</hi> Mr. Keach<hi>'s abusing <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> me;</hi> and seeing that this Paper-book, nor Mr. <hi>Keach</hi>'s <hi>Breach Repaired,</hi> wherein are many gross Abuses and immoral Falshoods, which are collect<g ref="char:EOLhyphen"/>ed in my Narrative, <hi>&amp;c.</hi> and witnessed again him under the hands of the aforesaid Elders and Nine Brethren, nor Mr. <hi>Joseph Wright</hi>'s <hi>Folly De<g ref="char:EOLhyphen"/>tected,</hi> are not marked in this determination a Pieces that are Scandalous to Religion, nor for<g ref="char:EOLhyphen"/>bidden that any more of them should be sold or dispersed, nor their Titles in the least mentioned therein, but that my Books (of Reply to then and just Vindication of my self from their Abuses) which had no particular Charge exhibited against them, are so unchristianly and basely abused: I shall therefore humbly offer to the Christian Con<g ref="char:EOLhyphen"/>siderations of all our Churches the following things by way of Query.</p>
+            <p n="1">1. That seeing it is known to all that are a<g ref="char:EOLhyphen"/>quainted with my state and circumstances of Life, that I cannot rationally propound to my self any worldly Interest or Advantage by being concen<g ref="char:EOLhyphen"/>ed for the Churches in this publick way; for that my gaining the Affections of the greatest Party as could be, would not give me a prospect of any future profit: And as for the present, could I sell all my Books on this Subject that are yet remain<g ref="char:EOLhyphen"/>ing, I should lose many Pounds by serving there
+<pb n="19" facs="tcp:37321:10"/>in this Controversie; therefore I Query, Whe<g ref="char:EOLhyphen"/>ther it does not greatly concern them to examine into this matter, and wrong done to them; in that it tends to stifle the Knowledge of the Truth which they profess, and to discourage all Persons that would out of love to the Truth and them, sincerely labour, expend their Purses, and ex<g ref="char:EOLhyphen"/>pose their Persons for their peace and welfare, from appearing in the defence of it and them against any invaders of our holy Profession in time to come?</p>
+            <p n="2">2. Whether it tends to the preserving of the present Peace and Settlement of the Churches in general, that the Books that I have published on the Subject of Singing, which are censured in that Paper, should lye under that irregular determina<g ref="char:EOLhyphen"/>tion in the Narrative of the Churches to future Ages? But that if nothing of Errour, matter of Fact or Reflections (worthy of such a censure) can be fairly made appear, and justly charged on them, they should be cleared, or the Names of them rased out of that Paper?</p>
+            <p n="3">3. Whether if the Churches should not examine after the Authors of this Injustice, and discourage such Actions, it may not further imbolden some Persons to make use of the Reputation of the Nar<g ref="char:EOLhyphen"/>ratives, hereafter to carry on such private designs as may spoil the Credit of them, and tend to the trou<g ref="char:EOLhyphen"/>ble, if not ruin of many Churches, and to impose such Lies, Falshoods, Deceit and Slanders on them, as some of our new pretended Reformers have already published?</p>
+            <p>And whatever pretences any have for suppressing my Books, because of some reproach that may
+<pb n="20" facs="tcp:37321:11"/>come to the Name of God and our holy Professi<g ref="char:EOLhyphen"/>on, (by open reproving the publick Crimes of some Persons) yet as this will not justifie them in doing evil that good may come of it, so there is no<g ref="char:EOLhyphen"/>thing tending more to preserve the honour and pu<g ref="char:EOLhyphen"/>rity of Religion, than for the Professors of it to purge out the leaven of unrighteousness that is a<g ref="char:EOLhyphen"/>mong them, and to keep themselves clean from others Sins; nor should any spare the discovering of such Immoralities as tend to suppress the Truth, for this would look as if they favoured Deceit and Falshood more than Truth and Righ<g ref="char:EOLhyphen"/>teousness. And therefore as those Immoral Evils charged and proved in my Narrative against Mr. <hi>Keach</hi> and others out of their printed Books, are accompanied with a piece of false Worship, and for the support and spreading the practice of it; so if they be not laid open, whereby their Deceit and Folly may be made manifest, they may in<g ref="char:EOLhyphen"/>danger the ruin of many Churches, and of the true Worship of God which has been owned and practised among us for many years, and therefore it is our Duty in a Christian way to discover and witness against the mystery of Iniquity that now worketh under the pretence of the most purest Re<g ref="char:EOLhyphen"/>formation, which had it been real, our new Re<g ref="char:EOLhyphen"/>formers might have stood the Test of this Contro<g ref="char:EOLhyphen"/>versie with the two-edged Sword of the Word of God; or if the Truth had been on their side, and opposed by any, they should have rather suffered with it, than to have imposed their practice of common Singing by such false and unrighteous means which the God of Truth abhors as much as he did Robbery under the Law for Burnt Offer<g ref="char:EOLhyphen"/>ings,
+<pb n="21" facs="tcp:37321:11"/>
+               <hi>Isa.</hi> 61.8. And if I am branded with the mark of one that sows Divisions, because I plain<g ref="char:EOLhyphen"/>ly tell them the Truth, and when all I have done directly tends to preserve the Peace and Unity of the Churches, and to establish the Minds of weak Christians in those very Principles which they have received, and wherein they have walked together in swëet Agreement for many years, I must learn to be contented, and suffer for the Truth: And I hope that whatever of this nature I may meet withal, or false Aspersions may be thrown upon me, yet the God of Truth whom I serve herein, and labour to please more than Man, will main<g ref="char:EOLhyphen"/>tain that peace and satisfaction I have always had in this undertaking, and in his time will make his People truely sensible, who are indeed the Trou<g ref="char:EOLhyphen"/>blers of our Churches.</p>
+            <p>As to the Confession Mr. <hi>Keach</hi> hath lately made in Print in Answer to the determination of those Seven Brethren, it is so scarcely to be seen, that it gives not satisfaction to us that are in <hi>London,</hi> and therefore we doubt the Countrey Churches can know but little of it, the principal part whereof appears as much if not more, a covering of his trans<g ref="char:EOLhyphen"/>gression, than a confessing and forsaking of it; for the same matter of Slander he cast on the first Baptized Churches, which he now owneth to be a wrong to them, he hath transferred to some other Churches of a later date, to excuse or justifie him<g ref="char:EOLhyphen"/>self; notwithstanding our later printed Confessi<g ref="char:EOLhyphen"/>on of Faith, and also the unanimous Agreement of the Elders and Messengers sent from and con<g ref="char:EOLhyphen"/>cerned for more than an Hundred Congregati<g ref="char:EOLhyphen"/>ons
+<pb n="22" facs="tcp:37321:12"/>of the same Faith, who met in <hi>London</hi> in the year 1689. does otherwise witness, and is con<g ref="char:EOLhyphen"/>trary to it. But seeing it is not my Business to treat of the other part of the printed Paper of de<g ref="char:EOLhyphen"/>termination; I shall also leave the full discussion of this matter, as pertaining to it and others to examine, and shall only farther say, that had his Confession proceeded from a real Sence of his Sins and true Repentance, with a sincere desire to sa<g ref="char:EOLhyphen"/>tisfie all whom he hath wronged; I cannot be<g ref="char:EOLhyphen"/>lieve he would have passed over, as he hath with silence, the publick wrong he hath done to me; and therefore, till he hath made me some publick, reasonable and equitable satisfaction, he cannot appear to be an honest Man in Religious Things.</p>
+            <p>To conclude, Whatever Mr. <hi>Keach</hi> and his Vindicators may think, yet God is not honour<g ref="char:EOLhyphen"/>ed with such methods of Reformation (as they have taken to promote their practice of common Singing) if it were true, as this is false; and there<g ref="char:EOLhyphen"/>fore it greatly behoveth them to reform their Im<g ref="char:EOLhyphen"/>moralities, and manifest themselves to be more upright in Religious Things, and then they will be fitter to reform others. And could I see them truly repent of the Folly they have committed in God's <hi>Israel,</hi> and sincerely returned unto the Lord, I hope I have learned, and should according to my measure of Grace, imbrace them in the Bowels of Jesus Christ as if they had never done me wrong: in the mean time, I can truly say, I bear Charity in my Heart to their Persons, and to all Men, tho' I hate their Immoral Falshoods and Unrigh<g ref="char:EOLhyphen"/>teousness.</p>
+         </div>
+         <div type="postscript">
+            <pb n="23" facs="tcp:37321:12"/>
+            <head>Postscript.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>A Copy of a Letter sent to Mr.</hi> Benjamin Keach.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Have some Intentions to clear my Books I last published, and my self from the wrong received by some Persons putting their Titles in the printed Paper annexed to the Narrative of the last Assembly; and being willing to facilitate in the way of Righte<g ref="char:EOLhyphen"/>ousness an end of our present difference, I intreat you (concluding you have e're this made some in<g ref="char:EOLhyphen"/>spection into my Books) within two Weeks time (if the Lord please to spare us) to send me any thing you can find of Mistake or Errors in my Citing your words, or any others, or in matter of Fact relating to our present Controversie, that so I might take this convenient opportunity publickly to correct it; and in this may manifest as well as in other things, that I la<g ref="char:EOLhyphen"/>bour to keep my Conscience void of offence both to<g ref="char:EOLhyphen"/>wards God and towards Man: which is all from
+<pb n="24" facs="tcp:37321:13"/>your real Well-wisher, tho' opposite to your Er<g ref="char:EOLhyphen"/>rours,</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>July 6. 1692.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Isaac Marlow.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>To the Letter aforesaid, Mr. <hi>Keach</hi> return<gap reason="illegible: in gutter" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> this Answer; viz. <hi>That he had nothing to s<gap reason="illegible: in gutter" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> to it.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Witness our Hands</dateline>
+                     <signed>
+                        <hi>John Lea<gap reason="illegible: in gutter" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <lb/> Isaac Twi<gap reason="illegible: in gutter" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Having received that Answer from Mr. <hi>Kea<gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and hearing nothing farther from him of that mat<g ref="char:EOLhyphen"/>ter, there is reason to conclude he could not <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any Errour or Mistake in my Citations of his, or in matter of Fact, in all I have wrote or c<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed in Print against him. But yet on another <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thor, <hi>viz.</hi> Mr. <hi>J. C.</hi> I find in my <hi>Truth cle<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or Narrative of the Rise,</hi> &amp;c. page 22. at <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bottom there is this, <hi>Note the word</hi> Hudo <hi>is <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Englished in that Pamphlet,</hi> which word [Pa<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>phlet] I desire all that have my Narrative blot out, and write Page instead thereof (if <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be not already altered, as they were in some o<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them before they were published.)</p>
+            <pb n="25" facs="tcp:37321:13"/>
+            <p> But to return, although Mr. <hi>Keach</hi> had nothing to say in answer to my Letter before recited, yet he hath since been pleased to send me a sew Lines to desire me to desist Printing; telling me that he had received some Writings out of the Countrey about the present Controversie, and that I shall hear and see enough very suddenly; and also de<g ref="char:EOLhyphen"/>sires me, that if there is any matter of Fact or Per<g ref="char:EOLhyphen"/>sonal Reflections concerning him or any others in my Writings, that I would let nothing of that nature be done, till the accused and accusers come Face to Face in the hearing of proper and fit Per<g ref="char:EOLhyphen"/>sons, according to the Rule of the Gospel; to which I have this to say.</p>
+            <p n="1">1. It's proved in my Narrative, how Mr. <hi>Keach</hi> lath before refused to put an end to our difference (respecting my Charge against him) in an equi<g ref="char:EOLhyphen"/>able way; and it has been hinted how faulty he hath been in his late Confession, and therefore I look on what he here saith to be but trifling with me, (as he did before for many Months) either to gain time, or to sacilitate some petty design; for how can any imagine he sincerely intends to make me equitable satisfaction, in case I could prove him guilty of any new publick Crime, when he hath not made the least acknowledgment of a<g ref="char:EOLhyphen"/>ny wrong he hath done me, tho' his gross abuses are firmly proved against him by Faithful and very Credible Witnesses, and undeniable Evidence out of his own printed Book.</p>
+            <p n="2">
+               <pb n="26" facs="tcp:37321:14"/> 2. Seeing that those Seven Brethren dwell in the Countreys far from one another, and divers of them very remote from <hi>London,</hi> the Case cannot be casily brought to a private hearing with the Persons chiefly concerned in the printed Paper of the Determination.</p>
+            <p n="3">3. I know of no Gospel Rule that requires an Immoral Wrong publickly done in Print, and of general Concern to all the Members of our Churches, should be privately smothered up be<g ref="char:EOLhyphen"/>tween a few Brethren, when the hazard of many Churches welfare depends upon it.</p>
+            <p n="4">4. As to his boasting and threatning words, that he hath received some Writings out of the Coun<g ref="char:EOLhyphen"/>trey, and that I shall hear and see enough very fuddenly, I shall only say, That as he, and all his helpers, have not yet really answered what I have wrote in my former Book, called <hi>Prelimited Forms,</hi> &amp;c. so I have reason to believe, that both that and my last Treatise, Intituled, <hi>Truth Soberly Defended,</hi> &amp;c. whatever noise they may raise against them with their Tongues and Pens, will stand the Test with them, and all Men, by the Word of God against their common way of Sing<g ref="char:EOLhyphen"/>ing; but if they begin to find out such Argument as to burn my Books with Fire, I must confess it will consume them, but can never extirpate the Truth of Christ professed therein, so long as we have our Bibles.</p>
+            <closer>
+               <signed>Isaac Marlow.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="27" facs="tcp:37321:14"/>
+            <head>A true Copy of a Paper delivered me to be Printed, by the Persons whose Names are set unto it.</head>
+            <p>WHereas our Brother <hi>Marlow</hi> hath Printed in the 22d page of his last Book, called <hi>Truth cleared, or a brief Narrative of the Rise,</hi> &amp;c. some account we gave him in writing of what pas<g ref="char:EOLhyphen"/>sed between Mr. <hi>John Christopher</hi> and us in the 18 and 19 Lines whereof are these words, <hi>(viz.) And he had two there</hi> [<hi>i. e.</hi> Greek Testaments] which had Latin on one side, and Greek against it with Marginal Notes, which Mr. <hi>Christopher</hi> re<g ref="char:EOLhyphen"/>ported abroad, as he also told us on the 18th of <hi>July</hi> 1692. That it is a Lie, for he had but one that had Latin against the Greek; but we thinking it hard to be charged with a Lie for so small a Mi<g ref="char:EOLhyphen"/>stake, asked him wherein the injury lay? He repli<g ref="char:EOLhyphen"/>ed, <hi>It looked as if he could not underst and the Greek unless the Latin were against it,</hi> (or words to that effect:) but we cannot apprehend how his having two such Testaments renders his Learning more suspicious than if he had but one. However to fa<g ref="char:EOLhyphen"/>tisfie him in this point, we do clear him to the World of having any more than one Testament with Latin against the Greek that we know of, the other being all Greek, yet what we said as to the number, is true. And altho' Mr. <hi>Christopher</hi> assert<g ref="char:EOLhyphen"/>ed
+<pb n="28" facs="tcp:37321:15"/>to us, That he offered us to form the Verb <hi>Hu<g ref="char:EOLhyphen"/>do</hi> if we would say we could not, yet we do af<g ref="char:EOLhyphen"/>firm he did evade it, after our repeated desiring him to do it; and we are the more confirmed in our Belief that he knoweth he cannot derive <hi>Hym<g ref="char:EOLhyphen"/>nesantes</hi> in <hi>Matth.</hi> 26.30. and <hi>Mark</hi> 14.26. from <hi>Hudo,</hi> seeing in this our last meeting with him, we both, and another Person there present, pressed him much to sorm it, and he then likewise evaded it. And it is worth the noting, That he told us That <hi>Hymnesantes</hi> might come from <hi>Hymneo</hi> (as Brother <hi>Marlow</hi> sheweth) as well as from <hi>Hudo,</hi> which he affirms; and it being objected to him, that then it was at best but an uncertainty, he re<g ref="char:EOLhyphen"/>plyed, You hit it; whereby he shews what weak grounds he hath for his positively contra<g ref="char:EOLhyphen"/>dicting in his Book what he thus asserted to be un<g ref="char:EOLhyphen"/>certain.</p>
+            <closer>
+               <dateline>Witness our Hands,</dateline>
+               <signed>
+                  <hi>Stephen Careless,<lb/> Luke Leader.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Advertisement.</head>
+            <p>THE Book within mentioned, called <hi>Truth Soberly De<g ref="char:EOLhyphen"/>fended, in a Serious Reply to Mr.</hi> Benj. Keach<hi>'s Book, in<g ref="char:EOLhyphen"/>tituled, The Breach Repaired in Gods Worship,</hi> &amp;c. and to di<g ref="char:EOLhyphen"/>vers others, is price Bound 1 <hi>s.</hi>
+            </p>
+            <p>The Book also published by the same Author, Intituled, <hi>Prelimited Forms of Praising God, vocally sung by all the Church together, proved to be no Gospel Ordinance,</hi> is price 6 d.</p>
+            <p>There is also published a Book, entituled, <hi>A Treatise of the Holy Trin-unity;</hi> in two Parts. The first asserteth the Deity of Je<g ref="char:EOLhyphen"/>sus Christ and the Holy Spirit, in the Unity of Essence with God the Father. The second, in defence of the former, an<g ref="char:EOLhyphen"/>swereth the chiefest Objections made against this Doctrine. By <hi>Isaac Marlow.</hi> Price Bound 10 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:37321:15"/>
+            <pb facs="tcp:37321:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
